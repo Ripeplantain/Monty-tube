@@ -39,7 +39,7 @@ const Feed = () => {
                 color:'#fff',
               }}
             >
-              Copyright 2023 Ausweb
+              irvingmanny@gmail.com
           </Typography>
 
         </Box>

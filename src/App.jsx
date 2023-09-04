@@ -19,7 +19,5 @@ function App() {
   )
 }
 
-I am a boy
-
 
 export default App
