@@ -26,7 +26,7 @@ const SearchBar = () => {
         pl: 2,
         boxShadow: 'none',
         mr: { sm: 5 },
-        width: '100%',
+        width: '50%',
         display: 'flex', 
         flexDirection: 'row', 
         alignItems: 'center', 
@@ -50,7 +50,7 @@ const SearchBar = () => {
         }}
       />
 
-      <IconButton type="submit" sx={{ p: '7px', color: 'red', flexShrink: 0 }}>
+      <IconButton type="submit" sx={{ p: '7px', color: 'red', flexShrink: 0 , right:'30px'}}>
         <Search />
       </IconButton>
     </Paper>
