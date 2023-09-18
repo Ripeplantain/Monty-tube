@@ -26,7 +26,7 @@ const SearchBar = () => {
         pl: 2,
         boxShadow: 'none',
         mr: { sm: 5 },
-        // width: '100%',
+        width: '100%',
         display: 'flex', 
         flexDirection: 'row', 
         alignItems: 'center', 
